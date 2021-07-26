@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Refrigeração Sigo</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <h1 class="titulo-principal"></h1>
+        </header>    
+        <img id="banner" src="logo refrigeração sigo.jpg">
+
+        <div class="plicipal">
+            <h2 class="titulo-centralizado">Sobre a Refrigeração sigo</h2>
+
+            <p>Localizada infrente a delegacia a<strong> Refrigeração Sigo</strong> traz para o mercado ar codicinados por preços extremamente baratos e com uma garantia que lhe garantira uma segurança ja mais vista </p>
+
+            <p id="missao" style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar conforto e qualidade de vida aos clientes"</strong>.</em></p>
+
+            <p>Oferecemos profissionais experientes e competentes
+            O atendimento possui padrão de excelência e agilidade, garantindo a satisfação dos nossos clientes.</p>
+        </div>
+
+        <div class="beneficios">
+            <h3 class="titulo-centralizado">beneficios</h3>
+
+            <ul>
+                <li class="itens">otimo atendimento</li>
+                <li class="itens">otimos preços</li>
+                <li class="itens">garantia</li>
+                <li class="itens">somos altorizados</li>
+            </ul>
+        </div>    
+
+    </body>
+</html>
+
